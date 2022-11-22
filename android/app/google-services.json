@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "231883818787",
+    "project_id": "love-stories-54e35",
+    "storage_bucket": "love-stories-54e35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231883818787:android:9bf5f162d6287aa224ae96",
+        "android_client_info": {
+          "package_name": "com.hasib.love_stories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231883818787-i3dnnob5uet2bhi7n54jna6g6ku83gem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Heg9aH2cmMFVxT14Yd0_TZHkc1khW5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231883818787-i3dnnob5uet2bhi7n54jna6g6ku83gem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "231883818787-vt2ioljto0hed2392g9c4k6f1ussvgbi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hasib.loveStories"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
